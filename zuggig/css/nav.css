@@ -1,0 +1,37 @@
+
+body{
+	background-color: #e0e0e0;
+}
+
+.contenedor{
+	margin-top: 15px;
+	
+} 
+
+.alto{
+	margin-top: -15px;
+}
+
+.al{
+	margin-top: -8px;
+	margin-right: 0px; 
+}
+
+.list{
+	color: #bdbdbd;
+}
+
+.img{
+	width:500px;
+	height: 400px;
+}
+
+.imga{
+	width:380px;
+	height: 300px;
+}
+
+.zuggig{
+	margin-top: -30px;
+}
+
